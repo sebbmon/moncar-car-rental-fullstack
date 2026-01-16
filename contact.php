@@ -48,7 +48,7 @@ if (isset($_SESSION['contact_message'])){
             </div>
             <div class="list-item"> 
                 <div class="list-circle"><i class="fa-solid fa-phone"></i></div>    
-                792 834 115</div>
+                792 834 116</div>
             <div class="list-item">
                 <div class="list-circle"><i class="fa-solid fa-envelope"></i></div>
                 moncar@gmail.com</div>

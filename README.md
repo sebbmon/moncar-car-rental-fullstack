@@ -30,14 +30,14 @@ Fullstackowy akademicki projekt systemu wypożyczalni samochodowej zrealizowany 
 ---
 
 Strona główna
-![Strona główna p1](https://i.imgur.com/XLcZPRb.png)
+![Strona główna p1](https://i.imgur.com/MyVh9uW.png)
 
 ---
 
 Flota
-![Dodawanie maliny](https://i.imgur.com/kiYuuIK.png)
+![Dodawanie maliny](https://i.imgur.com/ziDVADt.png)
 
 ---
 
 Kontakt
-![Tworzenie grupy](https://i.imgur.com/lGZxG9x.png)
+![Tworzenie grupy](https://i.imgur.com/v7LEeuv.png)
