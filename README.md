@@ -15,11 +15,29 @@ Fullstackowy akademicki projekt systemu wypożyczalni samochodowej zrealizowany 
 
 * **Backend:** PHP
 * **Database:** MySQL
-* **Frontend:** HTML, CSS, Bootstrap JavaScript
+* **Frontend:** HTML, CSS, Bootstrap, JavaScript
 * **Serwer:** XAMPP / Apache
 
 ## Instalacja
 
 1. **Sklonuj repozytorium** do folderu `htdocs` w środowisku XAMPP:
    ```bash
-   git clone [https://github.com/sebbmon/moncar-car-rental-fullstack.git](https://github.com/sebbmon/moncar-car-rental-fullstack.git)
+   git clone https://github.com/sebbmon/moncar-car-rental-fullstack.git
+
+## Demo / Podgląd aplikacji
+> Dane personalne znajdujace się w projekcie nie są prawdziwe.
+
+---
+
+Strona główna
+![Strona główna p1](https://i.imgur.com/XLcZPRb.png)
+
+---
+
+Flota
+![Dodawanie maliny](https://i.imgur.com/kiYuuIK.png)
+
+---
+
+Kontakt
+![Tworzenie grupy](https://i.imgur.com/lGZxG9x.png)

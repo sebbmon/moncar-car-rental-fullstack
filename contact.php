@@ -75,7 +75,7 @@ if (isset($_SESSION['contact_message'])){
         <div>
             <h2 class="contact-form-title">Kontakt</h2>
             <p>
-                Numer telefonu: <a href="tel:792 834 115">792 834 115</a>
+                Numer telefonu: <a href="tel:792 834 116">792 834 116</a>
             </p>
             <p>
                 Adres email: <a href="mailto:moncar@gmail.com">moncar@gmail.com</a>
